@@ -19,7 +19,8 @@
 <h3 align="left"> what i'm doing</h3>
 <p align="left">
 
-based in Toronto Canada, my name is Josh or just call me saint ^-^. 19 y/o i'm currently:
+based in Toronto Canada, my name is Josh but you can call me saint ^-^
+ 19 y/o i'm currently:
 - 🤖 amateur discord bot dev
 - 📖 Studying Computer Science (2nd year)
 
