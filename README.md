@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sxint
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning C#, Java, Javascript, Asp.Net Core(MVC), Expressjs and node.js, UML, SQL, Azure
+- 🌱 I’m currently learning C#, Java, Javascript, Asp.Net Core(MVC), Expressjs and node.js, UML, SQL and Azure
  
 
 <!---
