@@ -11,7 +11,7 @@
 ## about me:
 - 🔭 i’m currently working on a some small project tools, db management and making a few discord bots 
 - 🌱 i’m currently learning languages like C#, Java, Javascript, Asp.Net Core(MVC), SQL, HTML5 & CSS3
-- ⚡ fun fact: Spagbo is cool
+- ⚡ I loves cats! :3
 - 
 - my main link: https://solo.to/koro
 - my steam: https://steamcommunity.com/id/sxintuwu/
