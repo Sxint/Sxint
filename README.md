@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm ✨ nnbaocuong99 ✨</h1>
+<h1 align="center">hi 👋, i'm ✨ Sxint ✨</h1>
 
 <h3 align="center">thanks for visiting my profile, i'll introduce myself ☺️ </h3>
 
