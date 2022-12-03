@@ -91,7 +91,7 @@ based in Toronto Canada, my name is Josh or just call me saint ^-^. 19 y/o i'm c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## support: (actually i dont need it, so... take it ez and keep it simple)
-<p><a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/saintxox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saintxox" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
 
 ---
 - click here [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Saintuu?country.x=CA&locale.x=en_US) if you dont like those two buttons 
