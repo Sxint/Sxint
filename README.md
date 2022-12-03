@@ -31,7 +31,7 @@ based in Toronto Canada, my name is Josh or just call me saint ^-^. 19 y/o i'm c
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Knf2qJcRb6) :: https://discord.gg/Knf2qJcRb6
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) :: https://www.instagram.com/jxshn03/ 
 
-<h3 align="left"> or basically click on those icon below:</h3>
+<h3 align="left"> or you can click on those icons below:</h3>
 <p align="left">
 
 <a href="https://discord.gg/Knf2qJcRb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Knf2qJcRb6" height="30" width="40" /></a> :: <a href="https://www.instagram.com/jxshn03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxshn03" height="30" width="40" /></a> ::
