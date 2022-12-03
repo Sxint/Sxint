@@ -2,7 +2,7 @@
 
 <h3 align="center">thanks for visiting my profile, i'll introduce myself ☺️ </h3>
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+good+day;call+me+Saint;"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+good+day+:3;call+me+Saint;"></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -93,7 +93,7 @@ based in Toronto Canada, my name is Josh or just call me saint ^-^. 19 y/o i'm c
 <p><a href="https://www.buymeacoffee.com/nnbaocuong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nnbaocuong" /></a><a href="https://ko-fi.com/https://ko-fi.com/spagbo#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/spagbo#paypalModal" /></a></p><br><br>
 
 ---
-- click here [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/spagbo) if you dont like those two buttons 
+- click here [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Saintuu?country.x=CA&locale.x=en_US) if you dont like those two buttons 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -101,5 +101,5 @@ if you've arrived this far, thank you for taking time out of your day to read.
 
 ✨ best wishes,
 
-𝓃𝓃𝒷𝒸
+𝓳𝓼𝓪
 
