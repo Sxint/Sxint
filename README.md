@@ -30,8 +30,7 @@ based in Toronto Canada, my name is Josh or just call me saint ^-^. 19 y/o i'm c
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Knf2qJcRb6) :: https://discord.gg/Knf2qJcRb6
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) :: https://www.instagram.com/jxshn03/ 
-  [![Twitter Badge](https://img.shields.io/badge/style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-
+ 
 <h3 align="left"> or you can click on those icons below:</h3>
 <p align="left">
 
