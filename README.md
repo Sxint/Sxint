@@ -10,7 +10,7 @@
 
 ## about me:
 - 🔭 i’m currently working on a some small project tools, db management and making a few discord bots 
-- 🌱 i’m currently learning languages like C#, Java, Javascript, Asp.Net Core(MVC), UML and SQL
+- 🌱 i’m currently learning languages like C#, Java, Javascript, UML and SQL
 - ⚡ I loves cats! 😼
 
 - my main link: https://solo.to/koro
