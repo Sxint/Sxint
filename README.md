@@ -29,13 +29,13 @@ based in Singapore, my name is saint ^-^
 <h3 align="left"> you can connect with me:</h3>
 <p align="left">
 
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Knf2qJcRb6) :: https://discord.gg/Knf2qJcRb6
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Rr54KuuQ) :: https://discord.gg/Rr54KuuQ
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) :: https://www.instagram.com/jxshn03/ 
  
 <h3 align="left"> or you can click on those icons below:</h3>
 <p align="left">
 
-<a href="https://discord.gg/Knf2qJcRb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Knf2qJcRb6" height="30" width="40" /></a> :: <a href="https://www.instagram.com/jxshn03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxshn03" height="30" width="40" /></a> ::
+<a href="https://discord.gg/Rr54KuuQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Knf2qJcRb6" height="30" width="40" /></a> :: <a href="https://www.instagram.com/jxshn03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxshn03" height="30" width="40" /></a> ::
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
