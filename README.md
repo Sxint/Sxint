@@ -87,7 +87,7 @@ based in Singapore, my name is saint ^-^
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## support: (actually i dont need it, so... take it ez and keep it simple)
+## support: (i dont need it)
 <p><a href="https://www.buymeacoffee.com/saintxox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saintxox" /></a><a href="https://ko-fi.com/saintxx#paypalModal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/saintxx#paypalModal" /></a></p><br><br>
 
 ---
